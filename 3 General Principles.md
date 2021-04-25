@@ -1,7 +1,5 @@
 # 3 General Principles
 
-![General Principles of Program ](C:\Users\lenovo\Desktop\NTU暑研\Progress Report\General Principles of Program .png)
-
 ## 3.1 Second-order Problem Reduction
 
 ##### 基本思想：
